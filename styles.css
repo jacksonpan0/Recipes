@@ -17,3 +17,7 @@ li {
     font-size: 33px;
     text-align: center;
 }
+body {
+    background: linear-gradient(180deg, #FFEEEE, #DDEFBB);
+    height: 100vh;
+}
