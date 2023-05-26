@@ -1,17 +1,19 @@
-h1 {
-    color: black;
-    background-color: transparent;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 50px;
-}
 li {
+    box-sizing: border-box;
+    padding: 5px;
+    margin: 5px;
+    border: 5px;
     color: transparent;
     background-color: transparent;
     font-family: 'Times New Roman', Times, serif;
     font-size: 22px;
     text-align: center;
 }
-img {
-    height: auto;
-    width: 1000px;
+.introduction{
+    box-sizing: border-box;
+    color: black;
+    background-color: transparent;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 33px;
+    text-align: center;
 }
